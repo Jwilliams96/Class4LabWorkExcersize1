@@ -1,0 +1,28 @@
+/* 
+    Document   : masterpage
+    Created on : Feb 5, 2013, 1:52:49 PM
+    Author     : Jwilliams96
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.calculator{
+    float: right;
+    width:33%;
+    text-align: center;
+    height: 99%;
+}
+#rectangleAreaCalculator { 
+    border: 1px solid blue;
+    background-color: lightblue;
+}
+
+#circleAreaCalculator { 
+    border: 1px solid red;
+    background-color: pink;
+}
+
+#triangleSideCalculator{ 
+    border: 1px solid purple;
+    background-color: #cc99ff;
+}
+
